@@ -1,3 +1,4 @@
+AI News Aggregator - Live Build Repository
 This repository accompanies my 3-hour live coding session where I build a complete AI-powered news aggregator from scratch. This is a private repository containing valuable implementation details and deployment strategies used in production environments.
 
 Project Structure
