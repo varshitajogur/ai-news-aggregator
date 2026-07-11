@@ -1,48 +1,96 @@
 # **AI-Powered News Aggregator**
 
-An **AI-powered News Aggregator** that collects, processes, and displays the latest news from multiple sources in a clean and user-friendly interface. The application leverages AI to organize and present relevant news efficiently while providing a scalable and production-ready architecture.
+An **AI-Powered News Aggregator** that collects, processes, and displays the latest news from multiple sources using AI. The application provides a clean, responsive interface with real-time news updates, AI-generated summaries, and a scalable architecture for deployment.
+
+---
 
 ## **Project Structure**
 
 The project is organized into three branches:
 
-* **master** – Initial project setup and core application features.
-* **deployment** – Deployment configuration and infrastructure setup.
-* **deployment-final** – Final optimizations and production-ready implementation.
+* **master** – Core application with local development setup.
+* **deployment** – Deployment configuration and infrastructure.
+* **deployment-final** – Final production-ready version with optimizations.
 
 Each branch represents a different stage of the project's development.
 
+---
+
 ## **Features**
 
-* AI-powered news aggregation
-* Clean and responsive user interface
-* Real-time news updates
-* Scalable project architecture
-* Production-ready deployment configuration
+* 📰 AI-powered news aggregation
+* 🤖 AI-generated news summaries
+* ⚡ Real-time news updates
+* 🔍 Intelligent news filtering and organization
+* 📱 Responsive and modern user interface
+* 🚀 Production-ready deployment
+
+---
+
+## **Tech Stack**
+
+### **Frontend**
+
+* **React**
+* **Vite**
+* **TypeScript**
+* **Tailwind CSS**
+* **ShadCN UI**
+
+### **Backend**
+
+* **Python**
+* **FastAPI**
+
+### **Database**
+
+* **PostgreSQL (Supabase)**
+
+### **AI**
+
+* **OpenAI API**
+* **LangGraph**
+* **LangChain**
+
+### **Deployment**
+
+* **Docker**
+* **Docker Compose**
+
+---
 
 ## **Getting Started**
 
 1. Clone the repository.
-2. Install the required dependencies.
-3. Configure the environment variables.
-4. Start the development server.
+
+```bash
+git clone <repository-url>
+```
+
+2. Navigate to the project directory.
+
+```bash
+cd ai-news-aggregator
+```
+
+3. Install the required dependencies.
+
+4. Configure the environment variables.
+
+5. Start the development server.
+
+---
 
 ## **Branches**
 
-| Branch               | Description                            |
-| -------------------- | -------------------------------------- |
-| **master**           | Core application and local development |
-| **deployment**       | Deployment configuration               |
-| **deployment-final** | Final production-ready version         |
+| **Branch**           | **Description**                          |
+| -------------------- | ---------------------------------------- |
+| **master**           | Local development and core functionality |
+| **deployment**       | Deployment configuration                 |
+| **deployment-final** | Production-ready implementation          |
 
-## **Tech Stack**
-
-* **Frontend:** *(Add your frontend framework)*
-* **Backend:** *(Add your backend framework)*
-* **Database:** *(Add your database if applicable)*
-* **AI Integration:** *(Add the AI service/model used)*
-* **Deployment:** *(Add deployment platform)*
+---
 
 ## **License**
 
-This project is intended for learning and development purposes.
+This project is intended for educational and development purposes.
